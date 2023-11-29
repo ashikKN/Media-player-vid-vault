@@ -42,9 +42,9 @@ function Footer() {
 
             <div className="icons mt-5 d-flex justify-content-evenly fs-3">
               <Link to={'https://in.linkedin.com/'}><i class="fa-brands fa-linkedin"></i></Link>
-              <Link to={'https://in.linkedin.com/'}><i class="fa-brands fa-twitter"></i></Link>
-              <Link to={'https://in.linkedin.com/'}><i class="fa-brands fa-facebook-f"></i></Link>
-              <Link to={'https://in.linkedin.com/'}><i class="fa-brands fa-instagram"></i></Link>
+              <Link to={'https://twitter.com'}><i class="fa-brands fa-x-twitter"></i></Link>
+              <Link to={'https://www.facebook.com/'}><i class="fa-brands fa-facebook-f"></i></Link>
+              <Link to={'https://www.instagram.com/'}><i class="fa-brands fa-instagram"></i></Link>
             </div>
 
         </div>
